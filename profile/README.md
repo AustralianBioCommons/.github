@@ -1,5 +1,5 @@
 <center>
-<a href="https://www.biocommons.org.au/"><img src="https://github.com/AustralianBioCommons/australianbiocommons.github.io/blob/master/images/Australian-Biocommons-Logo-Horizontal-300dpi.jpg" width="700" /></a>
+<a href="https://www.biocommons.org.au/"><img src="https://github.com/AustralianBioCommons/australianbiocommons.github.io/blob/master/images/Australian-Biocommons-Logo-Horizontal-300dpi.jpg" width="500" /></a>
 </center>
 
 # Welcome to the Australian BioCommons GitHub 👋
