@@ -1,3 +1,5 @@
+[![](https://github.com/AustralianBioCommons/australianbiocommons.github.io/blob/master/images/Australian-Biocommons-Logo-Horizontal-300dpi.jpg)](https://www.biocommons.org.au/)
+
 # Welcome to the Australian BioCommons GitHub 👋
 
 - Visit [**ToolFinder**](https://australianbiocommons.github.io/2_tools.html) to discover which versions of bioinformatics tools are installed across several of the [BioCommons infrastructure partner systems](http://support.biocommons.org.au/support/solutions/articles/6000251977-compute-systems-at-the-biocommons-partner-infrastructures).
